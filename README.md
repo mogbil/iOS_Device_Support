@@ -4,7 +4,7 @@ Device Support files for xCode
 ## Required 
 Requests Model
 ```bash
-pip3 install requests
+sudo pip3 install requests
 ```
 
 ## Installation
