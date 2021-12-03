@@ -2,10 +2,10 @@
 Device Support files for xCode
 
 Required Python Requests Models
-pip3 install requests
+<code>pip3 install requests</code>
 
 installations
-python3 iOSDeviceSupport.py
+<code>python3 iOSDeviceSupport.py</code>
 
 iOS Supported Version
 iOS 8.0 - 15.0
